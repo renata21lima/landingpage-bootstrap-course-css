@@ -20,3 +20,7 @@
     background: linear-gradient(transparent, rgb(31, 31,31));
     position: absolute;
 }
+
+main{
+    margin-top: 5rem;
+}
