@@ -1,4 +1,4 @@
-.navbar-brand > img{
+.navbar-brand > img, footer > img{
     width: 60px;
     height: auto;
 }
@@ -23,4 +23,14 @@
 
 main{
     margin-top: 5rem;
+}
+
+.card-menu {
+    height: 304px;
+}
+
+.card-menu img{
+    height: 180px;
+    object-fit: cover;
+    object-position: center;
 }
