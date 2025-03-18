@@ -1,5 +1,7 @@
 # Projeto de Página da Trilha de CSS Dio - Cafeteria
 
+link: https://renata21lima.github.io/landingpage-bootstrap-course-css/
+
 Este é um projeto de página institucional para uma cafeteria, desenvolvido utilizando **HTML**, **CSS** e o framework **Bootstrap**.
 
 ## Tecnologias Utilizadas
